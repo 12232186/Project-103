@@ -1,0 +1,35 @@
+body{
+    color: rgb(241, 237, 0);
+    background-image: linear-gradient(to top, #001219 , #005F73,#0A9396,#94D2BD,#E9D8A6,#EE9B00,#CA6702,#BB3E03,#AE2012,#9B2226 );
+    
+}
+h3{
+    width: 80%;
+    font-size: 22px;
+}
+#camera{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+#result_of_objects, #result_of_accuracy{
+    color: #F2EBFB;
+}
+#fa{
+background-color: #000000;
+width: fit-content;
+}
+#ma{
+    background-color: #000000;
+    width: fit-content;
+}
+#me{
+    background-color: #000000;
+    width: fit-content;
+}
+#snap{
+    background-color: rgb(255, 0, 128);
+}
+#check{
+    background-color: darkblue;
+}
